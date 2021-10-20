@@ -1,0 +1,23 @@
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+}
+.p5Canvas {
+	/*width: 200px !important;
+	height: 200px !important;
+	margin: .125rem;*/
+	/*width: 100% !important;*/
+}
+main > #defaultCanvas0 {
+	width: 100% !important;
+	height: auto !important;
+	/*
+	width: 200px !important;
+	height: 200px !important;
+	*/
+	
+}
+main > #defaultCanvas0 > svg {
+	width: 100% !important;
+	height: auto !important;
+}
