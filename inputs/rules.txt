@@ -1,1 +1,1 @@
-crab clothes eyes leftHand rightHand mouth
+base/crab-base.svg clothes:240,500 eyes:0,0 leftHand:550,0 rightHand:0,0 mouth:0,200
