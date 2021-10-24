@@ -1,1 +1,0 @@
-(()=>{var o={4:()=>{console.log("tesssssst!")}},s={};function r(e){var t=s[e];if(void 0!==t)return t.exports;var n=s[e]={exports:{}};return o[e](n,n.exports,r),n.exports}(()=>{"use strict";r(4),console.log("BARR!!!!"),console.log("p5project")})()})();
