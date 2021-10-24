@@ -37,6 +37,7 @@ def generateSVGCombos(rule):
    return SVGCombos
 
 def main():
+   os.makedirs('outputs', exist_ok=True)
    with open('inputs/rules.txt') as rules:
       for rule in rules:
          SVGCombos = generateSVGCombos(rule)
