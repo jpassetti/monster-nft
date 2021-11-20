@@ -1,0 +1,40 @@
+[
+	// default set of colors is the first set
+	// each color set goes from darkest to lightest [0: black, 1: regular, 2: medium, 3: light]
+		[
+		"#662d91",
+		"#ff0000",
+		"#00ffff",
+		"#fcee21",
+	],
+	[
+		"#040004",
+		"#4b000f",
+		"#fa023c",
+		"#c8ff00",
+	],
+	[
+		"#434d53",
+		"#72ad75",
+		"#ffab07",
+		"#e9d558",	
+	],
+	[
+		"#0e2430",
+		"#fc3a51",
+		"#f5b349",
+		"#e8d5b7",
+	],
+	[
+		"#070743",
+		"#169d99",
+		"#b9cc01",
+		"#fae894",
+	],
+	[
+		"#36173d",
+		"#ff4845",
+		"#ffc55f",
+		"#ffec5e"
+	],
+]

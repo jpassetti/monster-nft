@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 125" style="enable-background:new 0 0 800 125;" xml:space="preserve">
+<style type="text/css">
+	.black{fill:#662D91;}
+	.light{fill:#FCEE21;}
+	.regular{fill:#FF0000;}
+	.medium{fill:#00FFFF;}
+</style>
+<path class="black" d="M458.1,104.3c-4,8.8-122.3-4.9-122.2-13.4L328,11.7c0,0,26.1,41.7,30.6,40.2s15.1-38.2,15.1-38.2
+	s10.8,41.1,16.4,41.6s22-42.4,22-42.4s19.2,46.5,25.9,45.3c6.7-1.3,14.6-42.3,14.6-42.3s2.6,44.1,7.3,45.3s29.3-38.4,29.3-38.4
+	L458.1,104.3z"/>
+<path class="light" d="M456.7,102.1c-4,8.8-117.8-4-117.8-12.6l-6.7-67.3c0,0,18.4,35.4,26.8,34.9c8.4-0.6,14.4-31,14.4-31
+	s8.7,32.9,16.5,34.3s21.8-37.7,21.8-37.7s19,42.7,27.1,42.1s12.6-30.1,12.6-30.1s0.3,30.1,7.5,31.5c7.3,1.4,19.4-21.5,19.4-21.5
+	L456.7,102.1z"/>
+<path class="black" d="M459.6,97.3c-41.1,1.6-82.1-3.6-123.2-14.5V85c41.4,11.2,82.3,16.3,122.6,14.5L459.6,97.3z"/>
+<circle class="black" cx="417.9" cy="82.2" r="8.4"/>
+<circle class="regular" cx="418.2" cy="81.8" r="5.9"/>
+<circle class="black" cx="389.2" cy="79" r="8.4"/>
+<circle class="medium" cx="389.5" cy="78.6" r="5.9"/>
+<ellipse class="black" cx="442.8" cy="82.2" rx="6.8" ry="8.4"/>
+<ellipse class="medium" cx="443" cy="81.8" rx="4.8" ry="5.9"/>
+</svg>
