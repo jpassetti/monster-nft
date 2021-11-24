@@ -3,16 +3,18 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 800 300" style="enable-background:new 0 0 800 300;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFF00;}
-	.st1{fill:#662D91;}
+			.medium{fill:#00FFFF;}
+	.regular{fill:#FF0000;}
+	.black{fill:#662D91;}
+	.light{fill:#FCEE21;}
 </style>
 <g>
-	<polygon class="st0" points="481.4,231.8 465.7,155.9 384.6,124.5 358.4,142.8 363.7,183.8 414.3,271 	"/>
-	<path class="st1" d="M486.7,117.5l17.4,54.1c0,0-109.9-47.1-133.5-28.8c-23.6,18.3,48,117.8,48,117.8l86.4-49.7l1.7,47.1l-14-27
+	<polygon class="light" points="481.4,231.8 465.7,155.9 384.6,124.5 358.4,142.8 363.7,183.8 414.3,271 	"/>
+	<path class="black" d="M486.7,117.5l17.4,54.1c0,0-109.9-47.1-133.5-28.8c-23.6,18.3,48,117.8,48,117.8l86.4-49.7l1.7,47.1l-14-27
 		l-80.3,50.6c0,0-84.6-130-60.2-155.3s129.1,27.9,129.1,27.9L486.7,117.5z"/>
-	<polygon class="st1" points="472.5,186.3 382,205.6 387.2,213.5 472.9,191.2 	"/>
-	<polygon class="st1" points="441.8,146.9 463.2,237.5 466.6,235.5 445.7,147.4 	"/>
-	<polygon class="st1" points="418.9,139.6 449.6,246.2 445.7,249.1 415,138.6 	"/>
-	<polygon class="st1" points="428.9,255.2 374.3,130.1 380.9,134.7 435,258.4 	"/>
+	<polygon class="black" points="472.5,186.3 382,205.6 387.2,213.5 472.9,191.2 	"/>
+	<polygon class="black" points="441.8,146.9 463.2,237.5 466.6,235.5 445.7,147.4 	"/>
+	<polygon class="black" points="418.9,139.6 449.6,246.2 445.7,249.1 415,138.6 	"/>
+	<polygon class="black" points="428.9,255.2 374.3,130.1 380.9,134.7 435,258.4 	"/>
 </g>
 </svg>
